@@ -31,15 +31,10 @@ Our models have achieved an impressive average classification accuracy of 98%, s
 To get started, follow these steps:
 1. Clone this repository to your local machine.
 2. Explore the code, datasets, and model files in their respective directories.
-3. Refer to the README files within each directory for detailed instructions on training models, running predictions, and reproducing the results.
+3. Refer to the detailed instructions on training models, running predictions, and reproducing the results.
 
 ## Contributions
-We welcome contributions from the open-source community to enhance and extend the capabilities of our thyroid classification project. Whether you're interested in improving existing models, exploring new algorithms, or expanding the dataset, your contributions can help advance medical diagnostics.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE.md). Please review the license terms before using or contributing to this project.
-
-Join us in our mission to improve thyroid condition diagnosis through machine learning and neural networks. Together, we can make a significant impact on healthcare outcomes.
+Please feel free to contribute, suggest improvements, or use this project for your own research and applications related to thyroid disease disorder classification. Thank you for your interest and support!
 
 ---
 
